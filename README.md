@@ -1,2 +1,1 @@
-## Nothing
-\n## Also, nothing
+## Also, nothing
